@@ -13,6 +13,9 @@ const Home: React.FC = () => {
       <main>
         <h1>Phone Number Cleaner</h1>
         <PhoneNumberCleaner />
+        <h3 className="absolute bottom-0 left-0 right-0 text-center py-2 bg-gray-200">
+            All rights reserved © olaDen 2023
+            </h3>
       </main>
     </div>
   );
